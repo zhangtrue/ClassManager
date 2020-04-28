@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/tongxunlu"
+          android:title="通讯录"
+        android:icon="@drawable/tongxunlu"
+        />
+    <item android:id="@+id/dazi"
+        android:title="打字"
+        android:icon="@drawable/dazi"
+        />
+    <item android:id="@+id/dushu"
+        android:title="读书"
+        android:icon="@drawable/dushu"
+        />
+    <item android:id="@+id/jineng"
+        android:title="技能"
+        android:icon="@drawable/jineng"
+        />
+    <item android:id="@+id/wode"
+        android:title="我的"
+        android:icon="@drawable/wode"
+        />
+</menu>
